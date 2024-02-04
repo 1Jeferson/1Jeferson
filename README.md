@@ -1,10 +1,10 @@
 
 <div align="center">
-  <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=f0e68c&height=120&section=header"/>
+  <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=825280&height=120&section=header"/>
   
   [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=fff&size=35&center=true&vCenter=true&width=1000&lines=Olá,+Me+chamo+Jeferson+Ribeiro+;Tenho+28+anos+;Gosto+de+Pixel+Art+;Estudante+de+Ciência+da+Computação;Seja+Bem-vindo(a)!+:%29)](https://git.io/typing-svg)
 
-  ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=1Jeferson&show_icons=true&theme=merko)
+  ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=1Jeferson&show_icons=true&theme=dracula)
 
   ### Tecnologias:
   ![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)&nbsp;
@@ -19,6 +19,6 @@
   [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jeferson-ribeiro-silva/)
   [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:jefersonnanet.95@gmail.com)
 
-  <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=f0e68c&height=120&section=footer"/>
+  <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=825280&height=120&section=footer"/>
 </div>
 
