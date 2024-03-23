@@ -14,6 +14,7 @@
   ![React](https://img.shields.io/badge/React-1572B6?style=for-the-badge&logo=react&logoColor=61DAFB)&nbsp;
   ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)&nbsp; 
   ![Spring](https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white)&nbsp; 
+  ![Git](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white)&nbsp;
 
   ### Entre em contato:
   [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jeferson-ribeiro-silva/)
