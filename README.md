@@ -4,7 +4,12 @@
   
   [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=fff&size=35&center=true&vCenter=true&width=1000&lines=Olá,+Me+chamo+Jeferson+;Tenho+28+anos+;Gosto+de+Pixel+Art+;Estudante+de+Ciência+da+Computação;Seja+Bem-vindo(a)!+:%29)](https://git.io/typing-svg)
 
-  ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=1Jeferson&show_icons=true&theme=dracula)
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=1jeferson&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=1jeferson&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
+</div>
+
+  
 
   ### Tecnologias:
   ![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)&nbsp;
