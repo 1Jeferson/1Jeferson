@@ -2,7 +2,7 @@
 <div align="center">
   <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=825280&height=120&section=header"/>
   
-  [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=fff&size=35&center=true&vCenter=true&width=1000&lines=Olá,+Me+chamo+Jeferson+;Tenho+28+anos+;Gosto+de+Pixel+Art+;Estudante+de+Ciência+da+Computação;Seja+Bem-vindo(a)!+:%29)](https://git.io/typing-svg)
+  [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=fff&size=35&center=true&vCenter=true&width=1000&lines=Olá,+Me+chamo+Jeferson+;Gosto+de+Pixel+Art+;Estudante+de+Ciência+da+Computação;Seja+Bem-vindo(a)!+:%29)](https://git.io/typing-svg)
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=1jeferson&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
